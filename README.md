@@ -1,5 +1,3 @@
-# MADPractical2_20012011162
-
 Output:
 
 ![Screenshot 2022-08-31 11 15 13 AM](https://user-images.githubusercontent.com/92240128/187603468-3a9da2d7-7595-4460-90f7-306b23656fc2.png)
